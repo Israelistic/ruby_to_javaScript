@@ -69,7 +69,7 @@ for (var index = 0; index < containers.length; index++){
 console.log(containers[index]);
 }
 console.log('================');
-
+//functions
  function hello_world() {
   return console.log('Hello world!');
 };
